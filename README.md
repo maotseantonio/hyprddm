@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 HyprDDM is a fork of the sddm-astronaut-theme by Keyitdev with new themes and YAD-based gui.
-This is the HyprDDM fork for nixos flake.
+This is the HyprDDM fork for nixos flake. Now this is not fully functional. I am new to nixos and nix languages so this is under heavy development.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-ff7a18?style=flat-square&logo=linux&logoColor=white" alt="Linux Badge">
